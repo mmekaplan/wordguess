@@ -103,7 +103,7 @@ var wordGuessGame = {
       song: "C'est les Champs-Élysées!",
       preview: "assets/images/surlapont.mp3"
     },
-    illedelacite: {
+    iledelacite: {
       picture: "illedelacite.jpg",
       song: "C'est Île de la Cité!",
       preview: "assets/images/clairedelune.mp3"
