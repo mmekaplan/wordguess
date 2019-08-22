@@ -11,6 +11,16 @@
   left: 500px;
 }
 
+#wrapper{
+  
+  
+  max-width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+
 h2 {
   font-size: 50px;
 }
@@ -89,7 +99,7 @@ body {
   z-index: 20;
   margin: 0;
   margin-top: -120px;
-  margin-left: 400px;
+  margin-left: 1000px;
   font-family: "Mr Dafoe", cursive;
   font-size: 160px;
   color: #f975f7;
