@@ -91,11 +91,6 @@ var wordGuessGame = {
     tuileries: {
       picture: "tuileries.jpg",
       song: "C'est les Tuileries!",
-      preview: "assets/images/frere1.mp3"
-    },
-    tuileries: {
-      picture: "tuileries.jpg",
-      song: "C'est les Tuileries!",
       preview: "assets/images/frere2.mp3"
     },
     champselysees: {
@@ -110,7 +105,7 @@ var wordGuessGame = {
     },  
     montmartre: {
       picture: "montmartre.jpg",
-      song: "C'est Île de la Cité!",
+      song: "C'est Montmarte!",
       preview: "assets/images/frenchanthem.mp3"
     },
     quartierlatin: {
